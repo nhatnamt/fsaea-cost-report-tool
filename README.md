@@ -1,0 +1,1 @@
+Tool to assist with FSAE cost report. I made it cause I couldn't understand the advanced code being used here https://github.com/fs-fsae-open-source/cost-report-generator. Will merge later! Right now it's just for my learning.
