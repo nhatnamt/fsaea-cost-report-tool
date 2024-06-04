@@ -1,0 +1,359 @@
+[
+    {
+        "ID": 1,
+        "Multiplier": null,
+        "Category": "General",
+        "Multiplier Value": 1.0,
+        "Comments": null
+    },
+    {
+        "ID": 2,
+        "Multiplier": "Assemble - Length > 0.5m",
+        "Category": "Assembly",
+        "Multiplier Value": 1.25,
+        "Comments": null
+    },
+    {
+        "ID": 3,
+        "Multiplier": "Disassemble",
+        "Category": "Assembly",
+        "Multiplier Value": 0.8,
+        "Comments": "To be used when removing parts or fasteners"
+    },
+    {
+        "ID": 4,
+        "Multiplier": "Fastener Engagement Length > 2D",
+        "Category": "Fastener Installation",
+        "Multiplier Value": 1.25,
+        "Comments": null
+    },
+    {
+        "ID": 5,
+        "Multiplier": "Fastener Engagement Length > 4D",
+        "Category": "Fastener Installation",
+        "Multiplier Value": 1.5,
+        "Comments": null
+    },
+    {
+        "ID": 6,
+        "Multiplier": "Machine - Hole Length >= 4D",
+        "Category": "Drilling/ Tapping",
+        "Multiplier Value": 1.5,
+        "Comments": null
+    },
+    {
+        "ID": 7,
+        "Multiplier": "Machine - Hole Length >= 8D",
+        "Category": "Drilling/ Tapping",
+        "Multiplier Value": 3.0,
+        "Comments": null
+    },
+    {
+        "ID": 8,
+        "Multiplier": "Material  - Composite",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 2.0,
+        "Comments": null
+    },
+    {
+        "ID": 9,
+        "Multiplier": "Material - Aluminum",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 1.0,
+        "Comments": null
+    },
+    {
+        "ID": 10,
+        "Multiplier": "Material - Brass",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 0.8,
+        "Comments": null
+    },
+    {
+        "ID": 11,
+        "Multiplier": "Material - Bronze",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 1.33,
+        "Comments": null
+    },
+    {
+        "ID": 12,
+        "Multiplier": "Material - Cast Iron",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 2.5,
+        "Comments": null
+    },
+    {
+        "ID": 13,
+        "Multiplier": "Material - Foam",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 0.33,
+        "Comments": null
+    },
+    {
+        "ID": 14,
+        "Multiplier": "Material - Inconel",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 4.0,
+        "Comments": null
+    },
+    {
+        "ID": 15,
+        "Multiplier": "Material - Magnesium",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 0.8,
+        "Comments": null
+    },
+    {
+        "ID": 16,
+        "Multiplier": "Material - MMC",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 4.25,
+        "Comments": null
+    },
+    {
+        "ID": 17,
+        "Multiplier": "Material - Nickel",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 1.33,
+        "Comments": null
+    },
+    {
+        "ID": 18,
+        "Multiplier": "Material - Plastic",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 0.5,
+        "Comments": null
+    },
+    {
+        "ID": 19,
+        "Multiplier": "Material - Stainless Steel",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 3.75,
+        "Comments": null
+    },
+    {
+        "ID": 20,
+        "Multiplier": "Material - Steel",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 3.0,
+        "Comments": null
+    },
+    {
+        "ID": 21,
+        "Multiplier": "Material - Titanium",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 3.65,
+        "Comments": null
+    },
+    {
+        "ID": 22,
+        "Multiplier": "Material - Wood (Hard or soft)",
+        "Category": "Material Machining, Forming",
+        "Multiplier Value": 0.5,
+        "Comments": null
+    },
+    {
+        "ID": 23,
+        "Multiplier": "Repeat 2",
+        "Category": "Process Repetition",
+        "Multiplier Value": 2.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 24,
+        "Multiplier": "Repeat 3",
+        "Category": "Process Repetition",
+        "Multiplier Value": 3.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 25,
+        "Multiplier": "Repeat 4",
+        "Category": "Process Repetition",
+        "Multiplier Value": 4.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 26,
+        "Multiplier": "Repeat 5",
+        "Category": "Process Repetition",
+        "Multiplier Value": 5.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 27,
+        "Multiplier": "Repeat 6",
+        "Category": "Process Repetition",
+        "Multiplier Value": 6.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 28,
+        "Multiplier": "Repeat 7",
+        "Category": "Process Repetition",
+        "Multiplier Value": 7.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 29,
+        "Multiplier": "Repeat 8",
+        "Category": "Process Repetition",
+        "Multiplier Value": 8.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 30,
+        "Multiplier": "Repeat 9",
+        "Category": "Process Repetition",
+        "Multiplier Value": 9.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 31,
+        "Multiplier": "Repeat 10",
+        "Category": "Process Repetition",
+        "Multiplier Value": 10.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 32,
+        "Multiplier": "Repeat 11",
+        "Category": "Process Repetition",
+        "Multiplier Value": 11.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 33,
+        "Multiplier": "Repeat 12",
+        "Category": "Process Repetition",
+        "Multiplier Value": 12.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 34,
+        "Multiplier": "Repeat 13",
+        "Category": "Process Repetition",
+        "Multiplier Value": 13.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 35,
+        "Multiplier": "Repeat 14",
+        "Category": "Process Repetition",
+        "Multiplier Value": 14.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 36,
+        "Multiplier": "Repeat 15",
+        "Category": "Process Repetition",
+        "Multiplier Value": 15.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 37,
+        "Multiplier": "Repeat 16",
+        "Category": "Process Repetition",
+        "Multiplier Value": 16.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 38,
+        "Multiplier": "Repeat 17",
+        "Category": "Process Repetition",
+        "Multiplier Value": 17.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 39,
+        "Multiplier": "Repeat 18",
+        "Category": "Process Repetition",
+        "Multiplier Value": 18.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 40,
+        "Multiplier": "Repeat 19",
+        "Category": "Process Repetition",
+        "Multiplier Value": 19.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 41,
+        "Multiplier": "Repeat 20",
+        "Category": "Process Repetition",
+        "Multiplier Value": 20.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 42,
+        "Multiplier": "Repeat 21",
+        "Category": "Process Repetition",
+        "Multiplier Value": 21.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 43,
+        "Multiplier": "Repeat 22",
+        "Category": "Process Repetition",
+        "Multiplier Value": 22.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 44,
+        "Multiplier": "Repeat 23",
+        "Category": "Process Repetition",
+        "Multiplier Value": 23.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 45,
+        "Multiplier": "Repeat 24",
+        "Category": "Process Repetition",
+        "Multiplier Value": 24.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 46,
+        "Multiplier": "Repeat 25",
+        "Category": "Process Repetition",
+        "Multiplier Value": 25.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 47,
+        "Multiplier": "Repeat 26",
+        "Category": "Process Repetition",
+        "Multiplier Value": 26.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 48,
+        "Multiplier": "Repeat 27",
+        "Category": "Process Repetition",
+        "Multiplier Value": 27.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 49,
+        "Multiplier": "Repeat 28",
+        "Category": "Process Repetition",
+        "Multiplier Value": 28.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 50,
+        "Multiplier": "Repeat 29",
+        "Category": "Process Repetition",
+        "Multiplier Value": 29.0,
+        "Comments": "Optional, to show repetition of processes."
+    },
+    {
+        "ID": 51,
+        "Multiplier": "Repeat 30",
+        "Category": "Process Repetition",
+        "Multiplier Value": 30.0,
+        "Comments": "Optional, to show repetition of processes."
+    }
+]
