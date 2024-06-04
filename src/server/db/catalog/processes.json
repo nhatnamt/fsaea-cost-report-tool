@@ -1,6 +1,6 @@
 [
     {
-        "ID": 1,
+        "_id": 1,
         "Process": "Die Casting",
         "Category": "Basic Forming",
         "Unit Cost": 4.0,
@@ -8,11 +8,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 2,
+        "_id": 2,
         "Process": "Cold Forging, per Step",
         "Category": "Basic Forming",
         "Unit Cost": 2.5,
@@ -20,11 +19,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 3,
+        "_id": 3,
         "Process": "Hot Forging, per Step",
         "Category": "Basic Forming",
         "Unit Cost": 3.0,
@@ -32,11 +30,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 4,
+        "_id": 4,
         "Process": "Investment Casting",
         "Category": "Basic Forming",
         "Unit Cost": 8.0,
@@ -44,23 +41,21 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 5,
-        "Process": "Liquid fill molding",
+        "_id": 5,
+        "Process": "Liqu_id fill molding",
         "Category": "Basic Forming",
         "Unit Cost": 1.0,
         "Unit": "kg",
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": null,
-        "Comments": "Molding process at atmospheric pressure with liquid resin poured into mold cavity",
-        "Unnamed: 10": " "
+        "Comments": "Molding process at atmospheric pressure with liqu_id resin poured into mold cavity"
     },
     {
-        "ID": 6,
+        "_id": 6,
         "Process": "Lost Foam Casting",
         "Category": "Basic Forming",
         "Unit Cost": 3.5,
@@ -68,11 +63,10 @@
         "Tooling Required": "yes",
         "Near Net Shape": "yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 7,
+        "_id": 7,
         "Process": "Plastic injection molding",
         "Category": "Basic Forming",
         "Unit Cost": 2.75,
@@ -80,11 +74,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 8,
+        "_id": 8,
         "Process": "Powder Metal Forming",
         "Category": "Basic Forming",
         "Unit Cost": 3.0,
@@ -92,11 +85,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "Yes",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 9,
+        "_id": 9,
         "Process": "Profile Extrusion",
         "Category": "Basic Forming",
         "Unit Cost": 3.0,
@@ -104,47 +96,43 @@
         "Tooling Required": "yes",
         "Near Net Shape": "yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Needs material multipliers. Difference between aluminium/steel/copper/etc. May only produce lengths up to 6m of stock.",
-        "Unnamed: 10": " "
+        "Comments": "Needs material multipliers. Difference between aluminium/steel/copper/etc. May only produce lengths up to 6m of stock."
     },
     {
-        "ID": 10,
-        "Process": "Rapid Prototype - Composite",
+        "_id": 10,
+        "Process": "Rap_id Prototype - Composite",
         "Category": "Basic Forming",
         "Unit Cost": 175.0,
         "Unit": "kg",
         "Tooling Required": "No",
         "Near Net Shape": "Yes",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 11,
-        "Process": "Rapid Prototype - Metal",
+        "_id": 11,
+        "Process": "Rap_id Prototype - Metal",
         "Category": "Basic Forming",
         "Unit Cost": 330.0,
         "Unit": "kg",
         "Tooling Required": "No",
         "Near Net Shape": "Yes",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 12,
-        "Process": "Rapid Prototype - Plastic",
+        "_id": 12,
+        "Process": "Rap_id Prototype - Plastic",
         "Category": "Basic Forming",
         "Unit Cost": 32.0,
         "Unit": "kg",
         "Tooling Required": "No",
         "Near Net Shape": "Yes",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 13,
+        "_id": 13,
         "Process": "Sand Casting",
         "Category": "Basic Forming",
         "Unit Cost": 3.0,
@@ -152,11 +140,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 14,
+        "_id": 14,
         "Process": "Vacuum Form",
         "Category": "Basic Forming",
         "Unit Cost": 10.0,
@@ -164,11 +151,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 15,
+        "_id": 15,
         "Process": "Anodizing, Cosmetic",
         "Category": "Coating",
         "Unit Cost": 0.0025,
@@ -176,11 +162,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 16,
+        "_id": 16,
         "Process": "Anodizing, Hardened",
         "Category": "Coating",
         "Unit Cost": 0.005,
@@ -188,11 +173,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 17,
+        "_id": 17,
         "Process": "Cosmetic Chrome Plating",
         "Category": "Coating",
         "Unit Cost": 40.0,
@@ -200,11 +184,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 18,
+        "_id": 18,
         "Process": "Exhaust System Ceramic Coating",
         "Category": "Coating",
         "Unit Cost": 25.0,
@@ -212,11 +195,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Linear distance of coating on exhaust header and tubing including all runners, etc.  Material included.",
-        "Unnamed: 10": " "
+        "Comments": "Linear distance of coating on exhaust header and tubing including all runners, etc.  Material included."
     },
     {
-        "ID": 19,
+        "_id": 19,
         "Process": "Galvanize Coating",
         "Category": "Coating",
         "Unit Cost": 0.0,
@@ -224,11 +206,10 @@
         "Tooling Required": null,
         "Near Net Shape": null,
         "Process Multiplier": null,
-        "Comments": "It is not necessary to include any cost for Galvanize coating.  Included for reference only.  Applies to any type of galvanize coating.  Does not need to be used on standard fasteners.",
-        "Unnamed: 10": " "
+        "Comments": "It is not necessary to include any cost for Galvanize coating.  Included for reference only.  Applies to any type of galvanize coating.  Does not need to be used on standard fasteners."
     },
     {
-        "ID": 20,
+        "_id": 20,
         "Process": "Hard Chrome Plating",
         "Category": "Coating",
         "Unit Cost": 50.0,
@@ -236,11 +217,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 21,
+        "_id": 21,
         "Process": "Hardened Electroless Nickel Plating",
         "Category": "Coating",
         "Unit Cost": 20.0,
@@ -248,11 +228,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 22,
+        "_id": 22,
         "Process": "Spray Insulation Application, UL94 Rated",
         "Category": "Coating",
         "Unit Cost": 20.0,
@@ -260,11 +239,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": null
+        "Comments": null
     },
     {
-        "ID": 23,
+        "_id": 23,
         "Process": "Hand/Machine Finish - Surface preparation for painting",
         "Category": "Coating",
         "Unit Cost": 10.0,
@@ -272,23 +250,21 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": null
+        "Comments": null
     },
     {
-        "ID": 24,
-        "Process": "Nitriding/Case Hardening",
+        "_id": 24,
+        "Process": "Nitr_iding/Case Hardening",
         "Category": "Coating",
         "Unit Cost": 10.0,
         "Unit": "m^2",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 25,
+        "_id": 25,
         "Process": "Paint Apply, Schultz Type Application",
         "Category": "Coating",
         "Unit Cost": 2.0,
@@ -296,11 +272,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Application with siphon type of spray gun. Does not include material cost of paint.  Cost per area",
-        "Unnamed: 10": " "
+        "Comments": "Application with siphon type of spray gun. Does not include material cost of paint.  Cost per area"
     },
     {
-        "ID": 26,
+        "_id": 26,
         "Process": "Paint Apply, Pressurized Gun or Hand Application",
         "Category": "Coating",
         "Unit Cost": 5.0,
@@ -308,11 +283,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Closer detail application with hand brush or precision airbrush. Does not include material cost of paint.  Cost per area",
-        "Unnamed: 10": " "
+        "Comments": "Closer detail application with hand brush or precision airbrush. Does not include material cost of paint.  Cost per area"
     },
     {
-        "ID": 27,
+        "_id": 27,
         "Process": "Cure, Autoclave",
         "Category": "Composite",
         "Unit Cost": 50.0,
@@ -320,11 +294,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold.",
-        "Unnamed: 10": " "
+        "Comments": "Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold."
     },
     {
-        "ID": 28,
+        "_id": 28,
         "Process": "Cure, Oven",
         "Category": "Composite",
         "Unit Cost": 20.0,
@@ -332,11 +305,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold.",
-        "Unnamed: 10": " "
+        "Comments": "Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold."
     },
     {
-        "ID": 29,
+        "_id": 29,
         "Process": "Cure, Room Temperature, Vacuum",
         "Category": "Composite",
         "Unit Cost": 10.0,
@@ -344,11 +316,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cannot be used with prepreg composites.  Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold.",
-        "Unnamed: 10": " "
+        "Comments": "Cannot be used with prepreg composites.  Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold."
     },
     {
-        "ID": 30,
+        "_id": 30,
         "Process": "Cure, Room Temperature, Atmospheric",
         "Category": "Composite",
         "Unit Cost": 0.0,
@@ -356,11 +327,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cannot be used with prepreg composites.  Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold.",
-        "Unnamed: 10": " "
+        "Comments": "Cannot be used with prepreg composites.  Includes all consumable materials such as vacuum bagging, peel ply, breather cloth.  Includes labor for the consumable materials.  Also includes part removal from the mold."
     },
     {
-        "ID": 31,
+        "_id": 31,
         "Process": "Lamination, Filament Winding",
         "Category": "Composite",
         "Unit Cost": 25.0,
@@ -368,11 +338,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cost based on finished part mass of composite fibers and resin.",
-        "Unnamed: 10": " "
+        "Comments": "Cost based on finished part mass of composite fibers and resin."
     },
     {
-        "ID": 32,
+        "_id": 32,
         "Process": "Lamination, Forged Composite",
         "Category": "Composite",
         "Unit Cost": 25.0,
@@ -380,11 +349,10 @@
         "Tooling Required": "yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cost based on finished part mass of composite chopped strand fibers and resin.",
-        "Unnamed: 10": " "
+        "Comments": "Cost based on finished part mass of composite chopped strand fibers and resin."
     },
     {
-        "ID": 33,
+        "_id": 33,
         "Process": "Lamination, Manual",
         "Category": "Composite",
         "Unit Cost": 35.0,
@@ -392,11 +360,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Used to build the laminate one ply at a time.  A ply is a single layer of the laminate consisting of a single sheet of material, regardless of material or thickness. A ply may consist of woven carbon, unidirectional glass, adhesive film or honeycomb core, ",
-        "Unnamed: 10": " "
+        "Comments": "Used to build the laminate one ply at a time.  A ply is a single layer of the laminate consisting of a single sheet of material, regardless of material or thickness. A ply may consist of woven carbon, un_idirectional glass, adhesive film or honeycomb core, "
     },
     {
-        "ID": 34,
+        "_id": 34,
         "Process": "Potting",
         "Category": "Composite",
         "Unit Cost": 0.5,
@@ -404,11 +371,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cost based on perimeter of insert.  Includes potting compound material cost",
-        "Unnamed: 10": " "
+        "Comments": "Cost based on perimeter of insert.  Includes potting compound material cost"
     },
     {
-        "ID": 35,
+        "_id": 35,
         "Process": "Resin application, Infusion Molding",
         "Category": "Composite",
         "Unit Cost": 2.5,
@@ -416,11 +382,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 36,
+        "_id": 36,
         "Process": "Resin application, Manual",
         "Category": "Composite",
         "Unit Cost": 5.0,
@@ -428,11 +393,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "If prepreg composites are used do not included the resin application step.",
-        "Unnamed: 10": " "
+        "Comments": "If prepreg composites are used do not included the resin application step."
     },
     {
-        "ID": 37,
+        "_id": 37,
         "Process": "Circuit Card Assembly Labor - Hand Soldering",
         "Category": "Electrical - PCB Manufacturing",
         "Unit Cost": 0.05,
@@ -440,11 +404,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "thru-hole OR SMD components by hand. Number of components.",
-        "Unnamed: 10": " "
+        "Comments": "thru-hole OR SMD components by hand. Number of components."
     },
     {
-        "ID": 38,
+        "_id": 38,
         "Process": "Circuit Card Assembly Labor - Pick and Place",
         "Category": "Electrical - PCB Manufacturing",
         "Unit Cost": 0.01,
@@ -452,11 +415,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "SMD components using a pick and place machine. requires two operations for double sided board with a Machining Setup, Change in between. per component",
-        "Unnamed: 10": " "
+        "Comments": "SMD components using a pick and place machine. requires two operations for double s_ided board with a Machining Setup, Change in between. per component"
     },
     {
-        "ID": 39,
+        "_id": 39,
         "Process": "Circuit Card Assembly Labor - Reflow Oven",
         "Category": "Electrical - PCB Manufacturing",
         "Unit Cost": 1.0,
@@ -464,11 +426,10 @@
         "Tooling Required": null,
         "Near Net Shape": null,
         "Process Multiplier": null,
-        "Comments": "Solder reflow process per PCB side. requires two operations for double sided board with a Machining Setup, Change in between.",
-        "Unnamed: 10": " "
+        "Comments": "Solder reflow process per PCB s_ide. requires two operations for double s_ided board with a Machining Setup, Change in between."
     },
     {
-        "ID": 40,
+        "_id": 40,
         "Process": "Conformal Coat Apply",
         "Category": "Electrical - PCB Manufacturing",
         "Unit Cost": 5.0,
@@ -476,11 +437,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Spray or brush on, per side of PCB",
-        "Unnamed: 10": " "
+        "Comments": "Spray or brush on, per s_ide of PCB"
     },
     {
-        "ID": 41,
+        "_id": 41,
         "Process": "Solder Paste Apply",
         "Category": "Electrical - PCB Manufacturing",
         "Unit Cost": 1.0,
@@ -488,11 +448,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": null,
         "Process Multiplier": null,
-        "Comments": "per side of PCB with Stencil",
-        "Unnamed: 10": " "
+        "Comments": "per s_ide of PCB with Stencil"
     },
     {
-        "ID": 42,
+        "_id": 42,
         "Process": "Cut wire",
         "Category": "Electrical - Wire Prep",
         "Unit Cost": 0.08,
@@ -500,11 +459,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cutting a section of wire to a desired length",
-        "Unnamed: 10": " "
+        "Comments": "Cutting a section of wire to a desired length"
     },
     {
-        "ID": 43,
+        "_id": 43,
         "Process": "Strip Wire",
         "Category": "Electrical - Wire Prep",
         "Unit Cost": 0.08,
@@ -512,11 +470,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Exposing the conductive end of a single wire without any additional shields, cores, or cable armor.",
-        "Unnamed: 10": " "
+        "Comments": "Exposing the conductive end of a single wire without any additional shields, cores, or cable armor."
     },
     {
-        "ID": 44,
+        "_id": 44,
         "Process": "Tin Wire",
         "Category": "Electrical - Wire Prep",
         "Unit Cost": 0.13,
@@ -524,11 +481,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Preparing a single stripped wire for termination via solder joint",
-        "Unnamed: 10": " "
+        "Comments": "Preparing a single stripped wire for termination via solder joint"
     },
     {
-        "ID": 45,
+        "_id": 45,
         "Process": "Crimp Wire",
         "Category": "Electrical - Wire Prep",
         "Unit Cost": 0.17,
@@ -536,11 +492,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Crimping a splice or a independent wire termination such as a spade or ring connector",
-        "Unnamed: 10": " "
+        "Comments": "Crimping a splice or a independent wire termination such as a spade or ring connector"
     },
     {
-        "ID": 46,
+        "_id": 46,
         "Process": "Strip Multi-Conductor",
         "Category": "Electrical - Wire Prep",
         "Unit Cost": 0.13,
@@ -548,11 +503,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Includes cables. Removing outer sheathing and shields as well as stripping a multiconductor cable on a per conductor basis.",
-        "Unnamed: 10": " "
+        "Comments": "Includes cables. Removing outer sheathing and shields as well as stripping a multiconductor cable on a per conductor basis."
     },
     {
-        "ID": 47,
+        "_id": 47,
         "Process": "Connector Assembly, Crimp",
         "Category": "Electrical - Wire in Connector",
         "Unit Cost": 0.36,
@@ -560,11 +514,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Crimping a pin or socket to the end of a stripped wire and installing it into a connector housing",
-        "Unnamed: 10": " "
+        "Comments": "Crimping a pin or socket to the end of a stripped wire and installing it into a connector housing"
     },
     {
-        "ID": 48,
+        "_id": 48,
         "Process": "Connector Assembly, Solder",
         "Category": "Electrical - Wire in Connector",
         "Unit Cost": 0.24,
@@ -572,11 +525,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Soldering the end of a stripped wire directly to a connector housing",
-        "Unnamed: 10": " "
+        "Comments": "Soldering the end of a stripped wire directly to a connector housing"
     },
     {
-        "ID": 49,
+        "_id": 49,
         "Process": "Shrink Tube",
         "Category": "Electrical - Bundle Processing",
         "Unit Cost": 0.15,
@@ -584,11 +536,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "The process of using heat to activate heat shrink materials to seal a bundle",
-        "Unnamed: 10": " "
+        "Comments": "The process of using heat to activate heat shrink materials to seal a bundle"
     },
     {
-        "ID": 50,
+        "_id": 50,
         "Process": "Lay Wire",
         "Category": "Electrical - Bundle Processing",
         "Unit Cost": 0.02,
@@ -596,11 +547,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 51,
+        "_id": 51,
         "Process": "Taping Wire Bundle",
         "Category": "Electrical - Bundle Processing",
         "Unit Cost": 0.04,
@@ -608,11 +558,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Applying tape to lain or bundled wire.",
-        "Unnamed: 10": " "
+        "Comments": "Applying tape to lain or bundled wire."
     },
     {
-        "ID": 52,
+        "_id": 52,
         "Process": "Lace",
         "Category": "Electrical - Bundle Processing",
         "Unit Cost": 0.15,
@@ -620,11 +569,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Wrapping a lain wires with a lace to turn them into a bundle without the need for a wrap, no additional material or fasteners required",
-        "Unnamed: 10": " "
+        "Comments": "Wrapping a lain wires with a lace to turn them into a bundle without the need for a wrap, no additional material or fasteners required"
     },
     {
-        "ID": 53,
+        "_id": 53,
         "Process": "Insert Bundle Into Tube or Sleeve",
         "Category": "Electrical - Bundle Processing",
         "Unit Cost": 0.02,
@@ -632,11 +580,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "The process of installing lain wire into a protective covering on its own or bundled with other lain wires",
-        "Unnamed: 10": " "
+        "Comments": "The process of installing lain wire into a protective covering on its own or bundled with other lain wires"
     },
     {
-        "ID": 54,
+        "_id": 54,
         "Process": "Install Adhesive Cable Clamp",
         "Category": "Electrical - Bundle Processing",
         "Unit Cost": 0.19,
@@ -644,11 +591,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Use with adhesive cable tie mount under 'Materials, Hardware'",
-        "Unnamed: 10": " "
+        "Comments": "Use with adhesive cable tie mount under 'Materials, Hardware'"
     },
     {
-        "ID": 55,
+        "_id": 55,
         "Process": "Wire Dressing (Install and route)",
         "Category": "Electrical - Bundle Install",
         "Unit Cost": 1.0,
@@ -656,11 +602,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Installing and routing bundles or individual lain wires into the vehicle, does not include fastening wiring to vehicle nor electrical terminations or connections ",
-        "Unnamed: 10": " "
+        "Comments": "Installing and routing bundles or indiv_idual lain wires into the vehicle, does not include fastening wiring to vehicle nor electrical terminations or connections "
     },
     {
-        "ID": 56,
+        "_id": 56,
         "Process": "Install Tie Wrap (Zip Tie, Cable Clamp)",
         "Category": "Electrical - Bundle Install",
         "Unit Cost": 0.09,
@@ -668,11 +613,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Use with \"Tie Wrap\" fastener",
-        "Unnamed: 10": " "
+        "Comments": "Use with \"Tie Wrap\" fastener"
     },
     {
-        "ID": 57,
+        "_id": 57,
         "Process": "Connector Install",
         "Category": "Electrical - Attach Wires",
         "Unit Cost": 0.11,
@@ -680,23 +624,21 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Installing a connector with a quick disconnect feature, such as twist, bayonett, friction, or snap lock",
-        "Unnamed: 10": " "
+        "Comments": "Installing a connector with a quick disconnect feature, such as twist, bayonett, friction, or snap lock"
     },
     {
-        "ID": 58,
-        "Process": "Connector Install, Individual Quick Connect",
+        "_id": 58,
+        "Process": "Connector Install, Indiv_idual Quick Connect",
         "Category": "Electrical - Attach Wires",
         "Unit Cost": 0.1,
         "Unit": "unit",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Connecting an individual wire connector at the end of an installation process, for use with material \"Connector, Single Wire\". Eg Spade, Bullet, and Fork terminals",
-        "Unnamed: 10": " "
+        "Comments": "Connecting an indiv_idual wire connector at the end of an installation process, for use with material \"Connector, Single Wire\". Eg Spade, Bullet, and Fork terminals"
     },
     {
-        "ID": 59,
+        "_id": 59,
         "Process": "Connector Install, With Fasteners",
         "Category": "Electrical - Attach Wires",
         "Unit Cost": 0.5,
@@ -704,11 +646,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Installing a connector which requires additional fasteners to secure it, such as a bulkhead connector.",
-        "Unnamed: 10": " "
+        "Comments": "Installing a connector which requires additional fasteners to secure it, such as a bulkhead connector."
     },
     {
-        "ID": 60,
+        "_id": 60,
         "Process": "Attach Wire, Ring",
         "Category": "Electrical - Attach Wires",
         "Unit Cost": 0.48,
@@ -716,11 +657,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Connecting a ring connector to a lug or fastener at the end of an installation process, for use with material \"connector, Single Wire\"",
-        "Unnamed: 10": " "
+        "Comments": "Connecting a ring connector to a lug or fastener at the end of an installation process, for use with material \"connector, Single Wire\""
     },
     {
-        "ID": 61,
+        "_id": 61,
         "Process": "Attach Wire, Solder",
         "Category": "Electrical - Attach Wires",
         "Unit Cost": 0.43,
@@ -728,11 +668,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Terminating a stripped wire via solder joint, no crimping required, for use with process \"tin wire\"",
-        "Unnamed: 10": " "
+        "Comments": "Terminating a stripped wire via solder joint, no crimping required, for use with process \"tin wire\""
     },
     {
-        "ID": 62,
+        "_id": 62,
         "Process": "Attach Wire, to Fastener or Terminal Block",
         "Category": "Electrical - Attach Wires",
         "Unit Cost": 0.5,
@@ -740,11 +679,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Terminating a single wire in a way that requires stripping but no crimping, such as a terminal block or wrapped bolt",
-        "Unnamed: 10": " "
+        "Comments": "Terminating a single wire in a way that requires stripping but no crimping, such as a terminal block or wrapped bolt"
     },
     {
-        "ID": 63,
+        "_id": 63,
         "Process": "Hand - Start Only",
         "Category": "Fasteners",
         "Unit Cost": 0.12,
@@ -752,11 +690,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 64,
+        "_id": 64,
         "Process": "Hand, Loose <= 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -764,11 +701,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 65,
+        "_id": 65,
         "Process": "Hand, Loose <= 6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -776,11 +712,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 66,
+        "_id": 66,
         "Process": "Hand, Loose > 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.75,
@@ -788,11 +723,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 67,
+        "_id": 67,
         "Process": "Hand, Tight <= 6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -800,11 +734,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 68,
+        "_id": 68,
         "Process": "Power Tool <= 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -812,11 +745,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 69,
+        "_id": 69,
         "Process": "Power Tool <= 6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -824,11 +756,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 70,
+        "_id": 70,
         "Process": "Power Tool > 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -836,11 +767,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 71,
+        "_id": 71,
         "Process": "Ratchet <= 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.75,
@@ -848,11 +778,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 72,
+        "_id": 72,
         "Process": "Ratchet <= 6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -860,11 +789,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 73,
+        "_id": 73,
         "Process": "Ratchet > 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 1.5,
@@ -872,11 +800,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 74,
+        "_id": 74,
         "Process": "Reaction Tool <= 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -884,11 +811,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 75,
+        "_id": 75,
         "Process": "Reaction Tool <= 6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -896,11 +822,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 76,
+        "_id": 76,
         "Process": "Reaction Tool > 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -908,11 +833,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 77,
+        "_id": 77,
         "Process": "Screwdriver < 1 Turn",
         "Category": "Fasteners",
         "Unit Cost": 0.12,
@@ -920,11 +844,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 78,
+        "_id": 78,
         "Process": "Screwdriver > 1 Turn",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -932,11 +855,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 79,
+        "_id": 79,
         "Process": "Tensioning Tool <=6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -944,11 +866,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 80,
+        "_id": 80,
         "Process": "Tensioning Tool <=25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.25,
@@ -956,11 +877,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 81,
+        "_id": 81,
         "Process": "Tensioning Tool >25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 0.5,
@@ -968,11 +888,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 82,
+        "_id": 82,
         "Process": "Wrench <= 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 1.5,
@@ -980,11 +899,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 83,
+        "_id": 83,
         "Process": "Wrench <= 6.35 mm",
         "Category": "Fasteners",
         "Unit Cost": 1.0,
@@ -992,11 +910,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 84,
+        "_id": 84,
         "Process": "Wrench > 25.4 mm",
         "Category": "Fasteners",
         "Unit Cost": 2.0,
@@ -1004,11 +921,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Fastener Installation",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 85,
+        "_id": 85,
         "Process": "Braze",
         "Category": "Joining",
         "Unit Cost": 0.15,
@@ -1016,11 +932,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 86,
+        "_id": 86,
         "Process": "Sewing",
         "Category": "Joining",
         "Unit Cost": 0.08,
@@ -1028,11 +943,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 87,
+        "_id": 87,
         "Process": "Weld",
         "Category": "Joining",
         "Unit Cost": 0.15,
@@ -1040,59 +954,54 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 88,
+        "_id": 88,
         "Process": "Aerosol Apply",
-        "Category": "Labor, Liquid Application",
+        "Category": "Labor, Liqu_id Application",
         "Unit Cost": 5.25,
         "Unit": "m^2",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "For use with glue, adhesives, paint, etc.  Includes material cost of Adhesives(glues) and thread locker.  Cost per area",
-        "Unnamed: 10": " "
+        "Comments": "For use with glue, adhesives, paint, etc.  Includes material cost of Adhesives(glues) and thread locker.  Cost per area"
     },
     {
-        "ID": 89,
+        "_id": 89,
         "Process": "Brush Apply",
-        "Category": "Labor, Liquid Application",
+        "Category": "Labor, Liqu_id Application",
         "Unit Cost": 0.002,
         "Unit": "cm^2",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "For use with glue, adhesives, paint, resin, etc. Includes material cost of Adhesives(glues) and thread locker.  Cost per area",
-        "Unnamed: 10": " "
+        "Comments": "For use with glue, adhesives, paint, resin, etc. Includes material cost of Adhesives(glues) and thread locker.  Cost per area"
     },
     {
-        "ID": 90,
-        "Process": "Liquid Applicator Gun",
-        "Category": "Labor, Liquid Application",
+        "_id": 90,
+        "Process": "Liqu_id Applicator Gun",
+        "Category": "Labor, Liqu_id Application",
         "Unit Cost": 0.02,
         "Unit": "cm",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "For use with glue, adhesives, resin, etc.  Includes material cost of Adhesives(glues) and thread locker.  Cost per linear distance.",
-        "Unnamed: 10": " "
+        "Comments": "For use with glue, adhesives, resin, etc.  Includes material cost of Adhesives(glues) and thread locker.  Cost per linear distance."
     },
     {
-        "ID": 91,
-        "Process": "Liquid Apply - Spot",
-        "Category": "Labor, Liquid Application",
+        "_id": 91,
+        "Process": "Liqu_id Apply - Spot",
+        "Category": "Labor, Liqu_id Application",
         "Unit Cost": 0.1,
         "Unit": "unit",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "For use with glue, adhesives, paint, resin, etc.",
-        "Unnamed: 10": " "
+        "Comments": "For use with glue, adhesives, paint, resin, etc."
     },
     {
-        "ID": 92,
+        "_id": 92,
         "Process": "Assemble, >20 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 5.63,
@@ -1100,11 +1009,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 93,
+        "_id": 93,
         "Process": "Assemble, >20 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 3.75,
@@ -1112,11 +1020,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 94,
+        "_id": 94,
         "Process": "Assemble, >20 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 1.88,
@@ -1124,11 +1031,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 95,
+        "_id": 95,
         "Process": "Assemble, 1 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.19,
@@ -1136,11 +1042,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 96,
+        "_id": 96,
         "Process": "Assemble, 1 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.13,
@@ -1148,11 +1053,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 97,
+        "_id": 97,
         "Process": "Assemble, 1 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.06,
@@ -1160,11 +1064,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 98,
+        "_id": 98,
         "Process": "Assemble, 10 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 1.88,
@@ -1172,11 +1075,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 99,
+        "_id": 99,
         "Process": "Assemble, 10 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 1.25,
@@ -1184,11 +1086,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 100,
+        "_id": 100,
         "Process": "Assemble, 10 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.63,
@@ -1196,11 +1097,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 101,
+        "_id": 101,
         "Process": "Assemble, 15 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 2.81,
@@ -1208,11 +1108,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 102,
+        "_id": 102,
         "Process": "Assemble, 15 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 1.88,
@@ -1220,11 +1119,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 103,
+        "_id": 103,
         "Process": "Assemble, 15 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.94,
@@ -1232,11 +1130,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 104,
+        "_id": 104,
         "Process": "Assemble, 20 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 3.75,
@@ -1244,11 +1141,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 105,
+        "_id": 105,
         "Process": "Assemble, 20 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 2.5,
@@ -1256,11 +1152,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 106,
+        "_id": 106,
         "Process": "Assemble, 20 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 1.25,
@@ -1268,11 +1163,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 107,
+        "_id": 107,
         "Process": "Assemble, 3 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.56,
@@ -1280,11 +1174,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 108,
+        "_id": 108,
         "Process": "Assemble, 3 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.38,
@@ -1292,11 +1185,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 109,
+        "_id": 109,
         "Process": "Assemble, 3 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.19,
@@ -1304,11 +1196,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 110,
+        "_id": 110,
         "Process": "Assemble, 5 kg, Interference",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.94,
@@ -1316,11 +1207,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 111,
+        "_id": 111,
         "Process": "Assemble, 5 kg, Line-on-Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.63,
@@ -1328,11 +1218,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 112,
+        "_id": 112,
         "Process": "Assemble, 5 kg, Loose",
         "Category": "Labor, Assembly",
         "Unit Cost": 0.31,
@@ -1340,11 +1229,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Assembly",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 113,
+        "_id": 113,
         "Process": "Tubing/Pipe Dressing (Install and route), Flexible Line",
         "Category": "Labor, Assembly",
         "Unit Cost": 1.0,
@@ -1352,11 +1240,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Use for installation of soft pneumatic, hydraulic, or vacuum tubing or pipes. Hard lines must use assembly processes. ",
-        "Unnamed: 10": " "
+        "Comments": "Use for installation of soft pneumatic, hydraulic, or vacuum tubing or pipes. Hard lines must use assembly processes. "
     },
     {
-        "ID": 114,
+        "_id": 114,
         "Process": "Adjustment - Misc.",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 5.0,
@@ -1364,11 +1251,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Chain tension, etc.",
-        "Unnamed: 10": " "
+        "Comments": "Chain tension, etc."
     },
     {
-        "ID": 115,
+        "_id": 115,
         "Process": "Brake Bleed - Per Bleeder Valve",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 2.5,
@@ -1376,11 +1262,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 116,
+        "_id": 116,
         "Process": "Engine first start, includes fuel",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 50.0,
@@ -1388,11 +1273,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 117,
+        "_id": 117,
         "Process": "Programming, Dataset Upload, End of Line",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 5.0,
@@ -1400,11 +1284,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Use with any component contain 1 or more programmable chips.",
-        "Unnamed: 10": " "
+        "Comments": "Use with any component contain 1 or more programmable chips."
     },
     {
-        "ID": 118,
+        "_id": 118,
         "Process": "Programming, Calibration",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 10.0,
@@ -1412,23 +1295,21 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Use for any component which receives sensory input which requires calibration before use ",
-        "Unnamed: 10": " "
+        "Comments": "Use for any component which receives sensory input which requires calibration before use "
     },
     {
-        "ID": 119,
-        "Process": "Suspension Setup - Solid Axle (per corner)",
+        "_id": 119,
+        "Process": "Suspension Setup - Sol_id Axle (per corner)",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 4.5,
         "Unit": "unit",
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 120,
+        "_id": 120,
         "Process": "Suspension Setup-Independent Susp. (per corner)",
         "Category": "Labor, Adjustment and Tuning",
         "Unit Cost": 8.75,
@@ -1436,11 +1317,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 121,
+        "_id": 121,
         "Process": "Cut (scissors, knife)",
         "Category": "Labor",
         "Unit Cost": 0.06,
@@ -1448,11 +1328,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 122,
+        "_id": 122,
         "Process": "Heat Treatment",
         "Category": "Labor",
         "Unit Cost": 0.0,
@@ -1460,23 +1339,21 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "It is not necessary to include any cost for heat treatment.  Included for reference only. Used for annealing and aging processes, not for engineering surface treatments.",
-        "Unnamed: 10": " "
+        "Comments": "It is not necessary to include any cost for heat treatment.  Included for reference only. Used for annealing and aging processes, not for engineering surface treatments."
     },
     {
-        "ID": 123,
-        "Process": "Liquid Apply - Pour Expanding Foam",
+        "_id": 123,
+        "Process": "Liqu_id Apply - Pour Expanding Foam",
         "Category": "Labor",
         "Unit Cost": 2.0,
         "Unit": "m^3",
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cost based on volume of fully expanded final part before trimming.  Tooling is required if the Foam is not fully captured. See \"Pouring Fixture\" in tooling.",
-        "Unnamed: 10": " "
+        "Comments": "Cost based on volume of fully expanded final part before trimming.  Tooling is required if the Foam is not fully captured. See \"Pouring Fixture\" in tooling."
     },
     {
-        "ID": 124,
+        "_id": 124,
         "Process": "Machining Setup, Change",
         "Category": "Labor",
         "Unit Cost": 0.65,
@@ -1484,11 +1361,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "The quantity for this process may be used to scale the cost to the number of parts yielded from each setup.  For example if 4 parts can be machined from a single plate then the quantity per part may be set to 0.25 to spread the cost out over each part.",
-        "Unnamed: 10": " "
+        "Comments": "The quantity for this process may be used to scale the cost to the number of parts yielded from each setup.  For example if 4 parts can be machined from a single plate then the quantity per part may be set to 0.25 to spread the cost out over each part."
     },
     {
-        "ID": 125,
+        "_id": 125,
         "Process": "Machining Setup, Install and remove",
         "Category": "Labor",
         "Unit Cost": 1.3,
@@ -1496,11 +1372,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "The quantity for this process may be used to scale the cost to the number of parts yielded from each setup.  For example if 4 parts can be machined from a single plate then the quantity per part may be 0.25 to spread the cost out over each part.",
-        "Unnamed: 10": " "
+        "Comments": "The quantity for this process may be used to scale the cost to the number of parts yielded from each setup.  For example if 4 parts can be machined from a single plate then the quantity per part may be 0.25 to spread the cost out over each part."
     },
     {
-        "ID": 126,
+        "_id": 126,
         "Process": "Riveting",
         "Category": "Labor",
         "Unit Cost": 0.25,
@@ -1508,11 +1383,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 127,
+        "_id": 127,
         "Process": "Safety Wire, Install",
         "Category": "Labor",
         "Unit Cost": 0.6,
@@ -1520,11 +1394,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Unit includes each item or hole included in safety wire path.  One item could include bolt, nut, hole in an axle, hub, etc.",
-        "Unnamed: 10": " "
+        "Comments": "Unit includes each item or hole included in safety wire path.  One item could include bolt, nut, hole in an axle, hub, etc."
     },
     {
-        "ID": 128,
+        "_id": 128,
         "Process": "Tape",
         "Category": "Labor",
         "Unit Cost": 0.8,
@@ -1532,11 +1405,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Includes the material cost of general purpose tape. Modifiers exist in the material table for special tape types and configurations.",
-        "Unnamed: 10": " "
+        "Comments": "Includes the material cost of general purpose tape. Modifiers exist in the material table for special tape types and configurations."
     },
     {
-        "ID": 129,
+        "_id": 129,
         "Process": "Vinyl Wrap Application",
         "Category": "Labor",
         "Unit Cost": 10.0,
@@ -1544,11 +1416,10 @@
         "Tooling Required": null,
         "Near Net Shape": null,
         "Process Multiplier": null,
-        "Comments": null,
-        "Unnamed: 10": null
+        "Comments": null
     },
     {
-        "ID": 130,
+        "_id": 130,
         "Process": "Broach, External",
         "Category": "Material Removal",
         "Unit Cost": 0.5,
@@ -1556,11 +1427,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Linear distance of broach",
-        "Unnamed: 10": " "
+        "Comments": "Linear distance of broach"
     },
     {
-        "ID": 131,
+        "_id": 131,
         "Process": "Broach, Internal",
         "Category": "Material Removal",
         "Unit Cost": 0.5,
@@ -1568,11 +1438,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Linear distance of broach",
-        "Unnamed: 10": " "
+        "Comments": "Linear distance of broach"
     },
     {
-        "ID": 132,
+        "_id": 132,
         "Process": "Drilled hole < 50.8 mm dia.",
         "Category": "Material Removal",
         "Unit Cost": 0.7,
@@ -1580,11 +1449,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Holes >= 50.8 mm must be machined",
-        "Unnamed: 10": " "
+        "Comments": "Holes >= 50.8 mm must be machined"
     },
     {
-        "ID": 133,
+        "_id": 133,
         "Process": "Drilled holes < 25.4 mm dia.",
         "Category": "Material Removal",
         "Unit Cost": 0.35,
@@ -1592,11 +1460,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 134,
+        "_id": 134,
         "Process": "EDM - Plunge",
         "Category": "Material Removal",
         "Unit Cost": 0.3,
@@ -1604,11 +1471,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 135,
+        "_id": 135,
         "Process": "EDM - Wire, 2 Axis",
         "Category": "Material Removal",
         "Unit Cost": 0.2,
@@ -1616,11 +1482,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Used on materials where the shaping is completed via electical discharge only.",
-        "Unnamed: 10": " "
+        "Comments": "Used on materials where the shaping is completed via electical discharge only."
     },
     {
-        "ID": 136,
+        "_id": 136,
         "Process": "EDM - Wire, Multiaxis",
         "Category": "Material Removal",
         "Unit Cost": 0.002,
@@ -1628,11 +1493,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Used on materials where the shaping is completed via electical discharge only.",
-        "Unnamed: 10": " "
+        "Comments": "Used on materials where the shaping is completed via electical discharge only."
     },
     {
-        "ID": 137,
+        "_id": 137,
         "Process": "Gear Shaping (hobbing)",
         "Category": "Material Removal",
         "Unit Cost": 0.5,
@@ -1640,11 +1504,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Linear travel of gear shaping.  A half-shaft end 5cm long would cost $2.50",
-        "Unnamed: 10": " "
+        "Comments": "Linear travel of gear shaping.  A half-shaft end 5cm long would cost $2.50"
     },
     {
-        "ID": 138,
+        "_id": 138,
         "Process": "Grind, Cylindrical",
         "Category": "Material Removal",
         "Unit Cost": 0.15,
@@ -1652,11 +1515,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "0.25mm machine stock",
-        "Unnamed: 10": " "
+        "Comments": "0.25mm machine stock"
     },
     {
-        "ID": 139,
+        "_id": 139,
         "Process": "Grind, Flat",
         "Category": "Material Removal",
         "Unit Cost": 0.15,
@@ -1664,11 +1526,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "0.25mm machine stock",
-        "Unnamed: 10": " "
+        "Comments": "0.25mm machine stock"
     },
     {
-        "ID": 140,
+        "_id": 140,
         "Process": "Grind, Profile",
         "Category": "Material Removal",
         "Unit Cost": 0.15,
@@ -1676,11 +1537,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "0.25mm machine stock",
-        "Unnamed: 10": " "
+        "Comments": "0.25mm machine stock"
     },
     {
-        "ID": 141,
+        "_id": 141,
         "Process": "Hand Finish - Material Removal",
         "Category": "Material Removal",
         "Unit Cost": 0.2,
@@ -1688,11 +1548,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Hand sanding, grinding, shaping.  Any manual material removal process.",
-        "Unnamed: 10": " "
+        "Comments": "Hand sanding, grinding, shaping.  Any manual material removal process."
     },
     {
-        "ID": 142,
+        "_id": 142,
         "Process": "Hand Finish - Surface Preperation",
         "Category": "Material Removal",
         "Unit Cost": 0.2,
@@ -1700,11 +1559,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Hand sanding, cleaning or other operations used to prepare the surface, such as for bonding.",
-        "Unnamed: 10": " "
+        "Comments": "Hand sanding, cleaning or other operations used to prepare the surface, such as for bonding."
     },
     {
-        "ID": 143,
+        "_id": 143,
         "Process": "Hot Wire Sculpting, 2 Axis",
         "Category": "Material Removal",
         "Unit Cost": 0.1,
@@ -1712,11 +1570,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "For use on materials where hot wire melting can shape the part only. Must not be costed as used on metals.",
-        "Unnamed: 10": " "
+        "Comments": "For use on materials where hot wire melting can shape the part only. Must not be costed as used on metals."
     },
     {
-        "ID": 144,
+        "_id": 144,
         "Process": "Hot Wire Sculpting, Multiaxis",
         "Category": "Material Removal",
         "Unit Cost": 0.001,
@@ -1724,11 +1581,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "For use on materials where hot wire melting can shape the part only. Must not be costed as used on metals.",
-        "Unnamed: 10": " "
+        "Comments": "For use on materials where hot wire melting can shape the part only. Must not be costed as used on metals."
     },
     {
-        "ID": 145,
+        "_id": 145,
         "Process": "Knurling",
         "Category": "Material Removal",
         "Unit Cost": 0.1,
@@ -1736,11 +1592,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Linear distance of knurl on part (length of knurl, not diameter)",
-        "Unnamed: 10": " "
+        "Comments": "Linear distance of knurl on part (length of knurl, not diameter)"
     },
     {
-        "ID": 146,
+        "_id": 146,
         "Process": "Laser Cut",
         "Category": "Material Removal",
         "Unit Cost": 0.01,
@@ -1748,11 +1603,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 147,
+        "_id": 147,
         "Process": "Machining",
         "Category": "Material Removal",
         "Unit Cost": 0.04,
@@ -1760,11 +1614,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Machining must include a minimum 1mm of machining stock to be removed from all surfaces with a machined surface. ",
-        "Unnamed: 10": " "
+        "Comments": "Machining must include a minimum 1mm of machining stock to be removed from all surfaces with a machined surface. "
     },
     {
-        "ID": 148,
+        "_id": 148,
         "Process": "Non-metallic cutting",
         "Category": "Material Removal",
         "Unit Cost": 0.14,
@@ -1772,11 +1625,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 149,
+        "_id": 149,
         "Process": "Plasma Cutting",
         "Category": "Material Removal",
         "Unit Cost": 0.1,
@@ -1784,11 +1636,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 150,
+        "_id": 150,
         "Process": "Reemed hole",
         "Category": "Material Removal",
         "Unit Cost": 0.35,
@@ -1796,11 +1647,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Reemed holes must first be drilled or machined. 0.1m machine stock.",
-        "Unnamed: 10": " "
+        "Comments": "Reemed holes must first be drilled or machined. 0.1m machine stock."
     },
     {
-        "ID": 151,
+        "_id": 151,
         "Process": "Tapping holes",
         "Category": "Material Removal",
         "Unit Cost": 0.35,
@@ -1808,11 +1658,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 152,
+        "_id": 152,
         "Process": "Threading, External (machining)",
         "Category": "Material Removal",
         "Unit Cost": 0.1,
@@ -1820,11 +1669,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Linear distance of thread (length of bolt thread, not diameter)",
-        "Unnamed: 10": " "
+        "Comments": "Linear distance of thread (length of bolt thread, not diameter)"
     },
     {
-        "ID": 153,
+        "_id": 153,
         "Process": "Threading, Internal (machining)",
         "Category": "Material Removal",
         "Unit Cost": 0.1,
@@ -1832,11 +1680,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Linear distance of thread (length of bolt thread, not diameter)",
-        "Unnamed: 10": " "
+        "Comments": "Linear distance of thread (length of bolt thread, not diameter)"
     },
     {
-        "ID": 154,
+        "_id": 154,
         "Process": "Waterjet Cut",
         "Category": "Material Removal",
         "Unit Cost": 0.01,
@@ -1844,11 +1691,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 155,
+        "_id": 155,
         "Process": "Waterjet Cut, >50mm thick",
         "Category": "Material Removal",
         "Unit Cost": 0.02,
@@ -1856,11 +1702,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 156,
+        "_id": 156,
         "Process": "Spinning, Metal",
         "Category": "Shaping",
         "Unit Cost": 0.02,
@@ -1868,11 +1713,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": null,
-        "Comments": "Cost based on the total volume created between the metal starting position and final position.",
-        "Unnamed: 10": " "
+        "Comments": "Cost based on the total volume created between the metal starting position and final position."
     },
     {
-        "ID": 157,
+        "_id": 157,
         "Process": "Threading, External (Rolling)",
         "Category": "Shaping",
         "Unit Cost": 0.1,
@@ -1880,11 +1724,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 158,
+        "_id": 158,
         "Process": "Sheet metal bends",
         "Category": "Sheet Materials",
         "Unit Cost": 0.25,
@@ -1892,11 +1735,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Bending along a single linear bend line, per bend line",
-        "Unnamed: 10": " "
+        "Comments": "Bending along a single linear bend line, per bend line"
     },
     {
-        "ID": 159,
+        "_id": 159,
         "Process": "Sheet metal punching",
         "Category": "Sheet Materials",
         "Unit Cost": 0.03,
@@ -1904,11 +1746,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 160,
+        "_id": 160,
         "Process": "Sheet Metal Saw Cut",
         "Category": "Sheet Materials",
         "Unit Cost": 0.2,
@@ -1916,11 +1757,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Includes linear saw cuts and hole saw cuts.  Linear cuts by linear distance and hole saw cuts by hole circumference.",
-        "Unnamed: 10": " "
+        "Comments": "Includes linear saw cuts and hole saw cuts.  Linear cuts by linear distance and hole saw cuts by hole circumference."
     },
     {
-        "ID": 161,
+        "_id": 161,
         "Process": "Sheet metal shearing",
         "Category": "Sheet Materials",
         "Unit Cost": 0.25,
@@ -1928,11 +1768,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Cuts are linear, no curves",
-        "Unnamed: 10": " "
+        "Comments": "Cuts are linear, no curves"
     },
     {
-        "ID": 162,
+        "_id": 162,
         "Process": "Sheet metal stamping",
         "Category": "Sheet Materials",
         "Unit Cost": 0.03,
@@ -1940,11 +1779,10 @@
         "Tooling Required": "Yes",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 163,
+        "_id": 163,
         "Process": "Tube bends",
         "Category": "Tubing",
         "Unit Cost": 0.75,
@@ -1952,11 +1790,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": null,
-        "Unnamed: 10": " "
+        "Comments": null
     },
     {
-        "ID": 164,
+        "_id": 164,
         "Process": "Tube cut",
         "Category": "Tubing",
         "Unit Cost": 0.15,
@@ -1964,11 +1801,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Use diameter of tube",
-        "Unnamed: 10": " "
+        "Comments": "Use diameter of tube"
     },
     {
-        "ID": 165,
+        "_id": 165,
         "Process": "Tube end preperation for welding",
         "Category": "Tubing",
         "Unit Cost": 0.75,
@@ -1976,11 +1812,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Includes mitering, notching, sanding, wire wheeling and surface prep.  All steps necessary for welding of one tube end except cutting and welding.",
-        "Unnamed: 10": " "
+        "Comments": "Includes mitering, notching, sanding, wire wheeling and surface prep.  All steps necessary for welding of one tube end except cutting and welding."
     },
     {
-        "ID": 166,
+        "_id": 166,
         "Process": "Tube Flare/Bead",
         "Category": "Tubing",
         "Unit Cost": 0.45,
@@ -1988,11 +1823,10 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Form flare or bead for brake lines, cooling lines, etc. in hard lines",
-        "Unnamed: 10": " "
+        "Comments": "Form flare or bead for brake lines, cooling lines, etc. in hard lines"
     },
     {
-        "ID": 167,
+        "_id": 167,
         "Process": "Tubing Lasercut Profiling/end preparation",
         "Category": "Tubing",
         "Unit Cost": 0.035,
@@ -2000,7 +1834,6 @@
         "Tooling Required": "No",
         "Near Net Shape": "No",
         "Process Multiplier": "Material Machining, Forming",
-        "Comments": "Use diameter of tube. To be used for fishmouthing of tubing to join to other tubes, and any other operation where the end of a tube is not cut in a planar profile.",
-        "Unnamed: 10": " "
+        "Comments": "Use diameter of tube. To be used for fishmouthing of tubing to join to other tubes, and any other operation where the end of a tube is not cut in a planar profile."
     }
 ]

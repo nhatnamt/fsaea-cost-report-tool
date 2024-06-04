@@ -1,6 +1,6 @@
 [
     {
-        "ID": 1,
+        "_id": 1,
         "Fastener": null,
         "Supplier": "Any",
         "Category": "General",
@@ -14,7 +14,7 @@
         "Comments": null
     },
     {
-        "ID": 2,
+        "_id": 2,
         "Fastener": "Bolt, Aluminum",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -28,8 +28,8 @@
         "Comments": "Strength 255 Mpa.  Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 3,
-        "Fastener": "Bolt, Plastic, PolyAmide",
+        "_id": 3,
+        "Fastener": "Bolt, Plastic, PolyAm_ide",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
         "Unit1": "mm",
@@ -39,10 +39,10 @@
         "C1": 0.4,
         "C2": 0.002,
         "Formula": "(C1/105154)*((Size1**2)*Size2*SQRT(size2))+(C2*e**(0.319*Size1))",
-        "Comments": "For any polyamide grade bolt."
+        "Comments": "For any polyam_ide grade bolt."
     },
     {
-        "ID": 4,
+        "_id": 4,
         "Fastener": "Bolt, Brass",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -56,7 +56,7 @@
         "Comments": "Strength 540 Mpa.   Special varities included (drilled head, locking, etc.)"
     },
     {
-        "ID": 5,
+        "_id": 5,
         "Fastener": "\tBolt, Grade 6.8 (SAE 3) and All Grades less than Metric 8.8",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -70,7 +70,7 @@
         "Comments": "Strength 670 Mpa.   Special varities included (drilled head, locking, etc.)"
     },
     {
-        "ID": 6,
+        "_id": 6,
         "Fastener": "\tBolt, Grade 8.8 (SAE 5)",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -84,7 +84,7 @@
         "Comments": "Strength 830 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 7,
+        "_id": 7,
         "Fastener": "Bolt, Grade 10.9 (SAE 8)",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -98,7 +98,7 @@
         "Comments": "Strength 1030 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 8,
+        "_id": 8,
         "Fastener": "\tBolt, Grade 12.9",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -112,7 +112,7 @@
         "Comments": "Strength 1170 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 9,
+        "_id": 9,
         "Fastener": "Bolt, Stainless Steel, A2 Grade",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -126,7 +126,7 @@
         "Comments": "Material AISI304, A2-XX, any Strength class. Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 10,
+        "_id": 10,
         "Fastener": "Bolt, Stainless Steel, A4 Grade",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -140,7 +140,7 @@
         "Comments": "Material AISI316, A4-XX, any Strength class. Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 11,
+        "_id": 11,
         "Fastener": "Bolt, Shoulder Bolt",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -154,7 +154,7 @@
         "Comments": "Size 2 is diameter of shoulder. Special varieties included (drilled head, locking, etc.)."
     },
     {
-        "ID": 12,
+        "_id": 12,
         "Fastener": "\tBolt, Grade AN",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -168,7 +168,7 @@
         "Comments": "Strength 830 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 14,
+        "_id": 14,
         "Fastener": "\tBolt, Grade NAS 6-Point",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -182,7 +182,7 @@
         "Comments": "Strength 1100 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 13,
+        "_id": 13,
         "Fastener": "\tBolt, Grade NAS 12-Point",
         "Supplier": "Any",
         "Category": "Bolts/Screws",
@@ -196,7 +196,7 @@
         "Comments": "Strength 1240 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 15,
+        "_id": 15,
         "Fastener": "Stud, Aluminum",
         "Supplier": "Any",
         "Category": "Studs",
@@ -210,7 +210,7 @@
         "Comments": "Strength 255 Mpa.  Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 16,
+        "_id": 16,
         "Fastener": "Stud, Brass",
         "Supplier": "Any",
         "Category": "Studs",
@@ -224,7 +224,7 @@
         "Comments": "Strength 540 Mpa.   Special varities included (drilled head, locking, etc.)"
     },
     {
-        "ID": 17,
+        "_id": 17,
         "Fastener": "Stud, Grade 8.8 (SAE 5)",
         "Supplier": "Any",
         "Category": "Studs",
@@ -238,7 +238,7 @@
         "Comments": "Strength 830 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 18,
+        "_id": 18,
         "Fastener": "\tStud, Grade 10.9 (SAE 8)",
         "Supplier": "Any",
         "Category": "Studs",
@@ -252,7 +252,7 @@
         "Comments": "Strength 1030 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 19,
+        "_id": 19,
         "Fastener": "\tStud, Grade 12.9",
         "Supplier": "Any",
         "Category": "Studs",
@@ -266,7 +266,7 @@
         "Comments": "Strength 1170 Mpa.   Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 20,
+        "_id": 20,
         "Fastener": "Stud, Stainless Steel, A2 Grade",
         "Supplier": "Any",
         "Category": "Studs",
@@ -280,7 +280,7 @@
         "Comments": "Material AISI304, A2-XX, any Strength class. Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 21,
+        "_id": 21,
         "Fastener": "Stud, Stainless Steel, A4 Grade",
         "Supplier": "Any",
         "Category": "Studs",
@@ -294,7 +294,7 @@
         "Comments": "Material AISI316, A4-XX, any Strength class. Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 22,
+        "_id": 22,
         "Fastener": "Washer, Aluminum",
         "Supplier": "Any",
         "Category": "Washers",
@@ -308,8 +308,8 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 23,
-        "Fastener": "Washer, Plastic, PolyAmide",
+        "_id": 23,
+        "Fastener": "Washer, Plastic, PolyAm_ide",
         "Supplier": "Any",
         "Category": "Washers",
         "Unit1": "mm",
@@ -322,7 +322,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 24,
+        "_id": 24,
         "Fastener": "Washer, Brass",
         "Supplier": "Any",
         "Category": "Washers",
@@ -336,7 +336,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 25,
+        "_id": 25,
         "Fastener": "Washer, Grade 6.8 (SAE 3) and All Grades less than Metric 8.8",
         "Supplier": "Any",
         "Category": "Washers",
@@ -350,7 +350,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 26,
+        "_id": 26,
         "Fastener": "\tWasher, Grade 8.8 (SAE 5)",
         "Supplier": "Any",
         "Category": "Washers",
@@ -364,7 +364,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 27,
+        "_id": 27,
         "Fastener": "\tWasher, Grade 10.9 (SAE 8)",
         "Supplier": "Any",
         "Category": "Washers",
@@ -378,7 +378,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 28,
+        "_id": 28,
         "Fastener": "\tWasher, Grade 12.9",
         "Supplier": "Any",
         "Category": "Washers",
@@ -392,7 +392,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 29,
+        "_id": 29,
         "Fastener": "Washer, Stainless Steel, A2 Grade",
         "Supplier": "Any",
         "Category": "Washers",
@@ -406,7 +406,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 30,
+        "_id": 30,
         "Fastener": "Washer, Stainless Steel, A4 Grade",
         "Supplier": "Any",
         "Category": "Washers",
@@ -420,7 +420,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 31,
+        "_id": 31,
         "Fastener": "\tWasher, Grade AN",
         "Supplier": "Any",
         "Category": "Washers",
@@ -434,7 +434,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 32,
+        "_id": 32,
         "Fastener": "Washer, Grade NAS 6-Point",
         "Supplier": "Any",
         "Category": "Washers",
@@ -448,7 +448,7 @@
         "Comments": "Any thickness.  Special varities included (Plain, thin, large OD, Serrated, etc.)."
     },
     {
-        "ID": 33,
+        "_id": 33,
         "Fastener": "Nut, Aluminum",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -462,7 +462,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 34,
+        "_id": 34,
         "Fastener": "Nut, Brass",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -476,7 +476,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 35,
+        "_id": 35,
         "Fastener": "\tNut, Grade 6.8 (SAE 3) and All Grades less than Metric 8.8",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -490,7 +490,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 36,
+        "_id": 36,
         "Fastener": "\tNut, Grade 8.8 (SAE 5)",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -504,7 +504,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 37,
+        "_id": 37,
         "Fastener": "\tNut, Grade 10.9 (SAE 8)",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -518,7 +518,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 38,
+        "_id": 38,
         "Fastener": "Nut, Grade 12.9",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -532,7 +532,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 39,
+        "_id": 39,
         "Fastener": "Nut, Stainless Steel, A2 Grade",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -546,7 +546,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 40,
+        "_id": 40,
         "Fastener": "Nut, Stainless Steel, A4 Grade",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -560,7 +560,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 41,
+        "_id": 41,
         "Fastener": "\tNut, Grade AN",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -574,7 +574,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 43,
+        "_id": 43,
         "Fastener": "Nut, Grade NAS 6-Point",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -588,7 +588,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 42,
+        "_id": 42,
         "Fastener": "\tNut, Grade NAS 12-Point",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -602,7 +602,7 @@
         "Comments": "Special varities included (drilled head, locking, etc.)."
     },
     {
-        "ID": 44,
+        "_id": 44,
         "Fastener": "\tNut, Lug",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -616,7 +616,7 @@
         "Comments": null
     },
     {
-        "ID": 45,
+        "_id": 45,
         "Fastener": "\tNut, Panel Retained",
         "Supplier": "Any",
         "Category": "Nuts",
@@ -630,13 +630,13 @@
         "Comments": "Any type of nut with a retaining or anti-rotation feature for a panel (weldnut, etc.)"
     },
     {
-        "ID": 46,
+        "_id": 46,
         "Fastener": "\tThread Insert",
         "Supplier": "Any",
         "Category": "Helicoils and postmachining inserts",
         "Unit1": "mm",
         "Unit2": null,
-        "Size1": "Internal Thread of Insert Reference, Outside Diameter of Male Compatible Thread",
+        "Size1": "Internal Thread of Insert Reference, Outs_ide Diameter of Male Compatible Thread",
         "Size2": " ",
         "C1": 0.1,
         "C2": null,
@@ -644,13 +644,13 @@
         "Comments": null
     },
     {
-        "ID": 47,
+        "_id": 47,
         "Fastener": "\tThread Insert, Female Threads, Hexagonal Type",
         "Supplier": "Any",
         "Category": "Plastic Molding Inserts",
         "Unit1": "mm",
         "Unit2": "mm",
-        "Size1": "Outside Diameter of Male Compatible Thread",
+        "Size1": "Outs_ide Diameter of Male Compatible Thread",
         "Size2": "Insert Length",
         "C1": 0.00012,
         "C2": 0.036,
@@ -658,13 +658,13 @@
         "Comments": null
     },
     {
-        "ID": 48,
+        "_id": 48,
         "Fastener": "\tThread Insert, Female Threads, Knurled Type",
         "Supplier": "Any",
         "Category": "Plastic Molding Inserts",
         "Unit1": "mm",
         "Unit2": "mm",
-        "Size1": "Outside Diameter of Male Compatible Thread",
+        "Size1": "Outs_ide Diameter of Male Compatible Thread",
         "Size2": "Insert Length",
         "C1": 0.00012,
         "C2": 0.036,
@@ -672,13 +672,13 @@
         "Comments": null
     },
     {
-        "ID": 49,
+        "_id": 49,
         "Fastener": "Thread Insert, Male Thread, Flat plate Type",
         "Supplier": "Any",
         "Category": "Plastic Molding Inserts",
         "Unit1": "mm",
         "Unit2": "mm",
-        "Size1": "Outside Diameter of Thread",
+        "Size1": "Outs_ide Diameter of Thread",
         "Size2": "Exposed Male Length",
         "C1": 1.5,
         "C2": 0.005,
@@ -686,13 +686,13 @@
         "Comments": null
     },
     {
-        "ID": 50,
+        "_id": 50,
         "Fastener": "Thread Insert, Male Thread, Knurled Type",
         "Supplier": "Any",
         "Category": "Plastic Molding Inserts",
         "Unit1": "mm",
         "Unit2": "mm",
-        "Size1": "Outside Diameter of Thread",
+        "Size1": "Outs_ide Diameter of Thread",
         "Size2": "Exposed Male Length",
         "C1": 1.5,
         "C2": 0.005,
@@ -700,7 +700,7 @@
         "Comments": null
     },
     {
-        "ID": 51,
+        "_id": 51,
         "Fastener": "Alcoa Camloc Fastener 1/4 turn",
         "Supplier": "Any",
         "Category": "Panel Clips, 1/4 Turn",
@@ -714,7 +714,7 @@
         "Comments": null
     },
     {
-        "ID": 52,
+        "_id": 52,
         "Fastener": "Dzus Fastener, 1/4 Turn, Slotted Head",
         "Supplier": "Any",
         "Category": "Panel Clips, 1/4 Turn",
@@ -728,7 +728,7 @@
         "Comments": "Includes 1/4 Turn stud, plate, spring and spring receptacle"
     },
     {
-        "ID": 53,
+        "_id": 53,
         "Fastener": "\tDzus Fastener, 1/4 Turn, Wing Head",
         "Supplier": "Any",
         "Category": "Panel Clips, 1/4 Turn",
@@ -742,13 +742,13 @@
         "Comments": "Includes 1/4 Turn stud, plate, spring and spring receptacle"
     },
     {
-        "ID": 54,
+        "_id": 54,
         "Fastener": "\tNutsert (J-Nut)",
         "Supplier": "Any",
         "Category": "Panel Mounted Nutsert",
         "Unit1": "mm",
         "Unit2": null,
-        "Size1": "Outside Diameter of Male Compatible Thread",
+        "Size1": "Outs_ide Diameter of Male Compatible Thread",
         "Size2": " ",
         "C1": 0.05,
         "C2": 0.25,
@@ -756,13 +756,13 @@
         "Comments": null
     },
     {
-        "ID": 55,
+        "_id": 55,
         "Fastener": "Nutsert, Riveted Nut",
         "Supplier": "Any",
         "Category": "Panel Mounted Nutsert",
         "Unit1": "mm",
         "Unit2": null,
-        "Size1": "Outside Diameter of Male Compatible Thread",
+        "Size1": "Outs_ide Diameter of Male Compatible Thread",
         "Size2": " ",
         "C1": 0.1,
         "C2": 0.5,
@@ -770,8 +770,8 @@
         "Comments": "Includes installation cost (riveting)"
     },
     {
-        "ID": 56,
-        "Fastener": "Hook and Loop, General Purpose, Hook Side (Velcro)",
+        "_id": 56,
+        "Fastener": "Hook and Loop, General Purpose, Hook S_ide (Velcro)",
         "Supplier": "Any",
         "Category": "Hook and Loop",
         "Unit1": "cm^2",
@@ -781,11 +781,11 @@
         "C1": 0.003,
         "C2": null,
         "Formula": "C1*Size1",
-        "Comments": "Same cost for adhesive backed or non-adhesive backed.  Only includes one side of joint (hook side)"
+        "Comments": "Same cost for adhesive backed or non-adhesive backed.  Only includes one s_ide of joint (hook s_ide)"
     },
     {
-        "ID": 57,
-        "Fastener": "\tHook and Loop, General Purpose, Loop Side (Velcro)",
+        "_id": 57,
+        "Fastener": "\tHook and Loop, General Purpose, Loop S_ide (Velcro)",
         "Supplier": "Any",
         "Category": "Hook and Loop",
         "Unit1": "cm^2",
@@ -795,11 +795,11 @@
         "C1": 0.002,
         "C2": null,
         "Formula": "C1*Size1",
-        "Comments": "Same cost for adhesive backed or non-adhesive backed.  Only includes one side of joint (loop side)"
+        "Comments": "Same cost for adhesive backed or non-adhesive backed.  Only includes one s_ide of joint (loop s_ide)"
     },
     {
-        "ID": 58,
-        "Fastener": "Hook and Loop, Heavy Duty, Dual Lock, Per Side",
+        "_id": 58,
+        "Fastener": "Hook and Loop, Heavy Duty, Dual Lock, Per S_ide",
         "Supplier": "Any",
         "Category": "Hook and Loop",
         "Unit1": "cm^2",
@@ -809,10 +809,10 @@
         "C1": 0.01,
         "C2": null,
         "Formula": "C1*Size1",
-        "Comments": "Same cost for adhesive backed or non-adhesive backed.  Only includes one side of joint (loop side)"
+        "Comments": "Same cost for adhesive backed or non-adhesive backed.  Only includes one s_ide of joint (loop s_ide)"
     },
     {
-        "ID": 59,
+        "_id": 59,
         "Fastener": "Hose Clamp, Ear Clamp, Low Pressure",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -826,7 +826,7 @@
         "Comments": null
     },
     {
-        "ID": 60,
+        "_id": 60,
         "Fastener": "Hose Clamp, Constant Tension",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -840,7 +840,7 @@
         "Comments": null
     },
     {
-        "ID": 61,
+        "_id": 61,
         "Fastener": "Hose Clamp, Miniature Bolt",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -854,7 +854,7 @@
         "Comments": null
     },
     {
-        "ID": 62,
+        "_id": 62,
         "Fastener": "\tHose Clamp, Single Wire",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -868,7 +868,7 @@
         "Comments": null
     },
     {
-        "ID": 63,
+        "_id": 63,
         "Fastener": "\tHose Clamp, Spring Steel",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -882,7 +882,7 @@
         "Comments": null
     },
     {
-        "ID": 64,
+        "_id": 64,
         "Fastener": "\tHose Clamp, V-Band Quick Release",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -896,7 +896,7 @@
         "Comments": null
     },
     {
-        "ID": 65,
+        "_id": 65,
         "Fastener": "\tHose Clamp, Worm Drive",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -910,7 +910,7 @@
         "Comments": null
     },
     {
-        "ID": 66,
+        "_id": 66,
         "Fastener": "\tGalvanized Steel Loop Straps",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -924,7 +924,7 @@
         "Comments": null
     },
     {
-        "ID": 67,
+        "_id": 67,
         "Fastener": "Galvanized Steel Loop Straps, Rubber-Cushioned",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -938,7 +938,7 @@
         "Comments": null
     },
     {
-        "ID": 68,
+        "_id": 68,
         "Fastener": "Stainless Steel Loop Straps",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -952,7 +952,7 @@
         "Comments": null
     },
     {
-        "ID": 69,
+        "_id": 69,
         "Fastener": "Stainless Steel Loop Straps, Rubber-Cushioned",
         "Supplier": "Any",
         "Category": "Hose Retention",
@@ -966,7 +966,7 @@
         "Comments": null
     },
     {
-        "ID": 70,
+        "_id": 70,
         "Fastener": "Pin, Cotter, Hairpin",
         "Supplier": "Any",
         "Category": "Pins, Retaining",
@@ -980,7 +980,7 @@
         "Comments": "All sizes up to 5mm wire diameter."
     },
     {
-        "ID": 71,
+        "_id": 71,
         "Fastener": "\tPin, Cotter, Straight",
         "Supplier": "Any",
         "Category": "Pins, Retaining",
@@ -994,7 +994,7 @@
         "Comments": "All sizes up to 5mm wire diameter."
     },
     {
-        "ID": 72,
+        "_id": 72,
         "Fastener": "Pin, Plastic Push",
         "Supplier": "Any",
         "Category": "Pins, Retaining",
@@ -1008,7 +1008,7 @@
         "Comments": "Any Size"
     },
     {
-        "ID": 73,
+        "_id": 73,
         "Fastener": "Pin, Quick Release",
         "Supplier": "Any",
         "Category": "Pins, Retaining",
@@ -1022,7 +1022,7 @@
         "Comments": "Any style pin (T-handle, Ring Grip, etc.)."
     },
     {
-        "ID": 74,
+        "_id": 74,
         "Fastener": "Pin, Safety, Coiled Wire",
         "Supplier": "Any",
         "Category": "Pins, Retaining",
@@ -1036,7 +1036,7 @@
         "Comments": null
     },
     {
-        "ID": 75,
+        "_id": 75,
         "Fastener": "Pin, Safety, Square Retainer Snap",
         "Supplier": "Any",
         "Category": "Pins, Retaining",
@@ -1050,7 +1050,7 @@
         "Comments": null
     },
     {
-        "ID": 76,
+        "_id": 76,
         "Fastener": "Retaining Ring, External",
         "Supplier": "Any",
         "Category": "Retaining Rings/Clips",
@@ -1064,7 +1064,7 @@
         "Comments": null
     },
     {
-        "ID": 77,
+        "_id": 77,
         "Fastener": "Retaining Ring, Internal",
         "Supplier": "Any",
         "Category": "Retaining Rings/Clips",
@@ -1078,7 +1078,7 @@
         "Comments": null
     },
     {
-        "ID": 78,
+        "_id": 78,
         "Fastener": "Retaining Ring, R-ring",
         "Supplier": "Any",
         "Category": "Retaining Rings/Clips",
@@ -1092,7 +1092,7 @@
         "Comments": null
     },
     {
-        "ID": 79,
+        "_id": 79,
         "Fastener": "Retaining Ring, Spiral",
         "Supplier": "Any",
         "Category": "Retaining Rings/Clips",
@@ -1106,7 +1106,7 @@
         "Comments": null
     },
     {
-        "ID": 80,
+        "_id": 80,
         "Fastener": "Rivet, Pop",
         "Supplier": "Any",
         "Category": "Rivets",
@@ -1120,7 +1120,7 @@
         "Comments": "Any diameter and length"
     },
     {
-        "ID": 81,
+        "_id": 81,
         "Fastener": "Rivet, Cold",
         "Supplier": "Any",
         "Category": "Rivets",
@@ -1134,7 +1134,7 @@
         "Comments": "Any diameter and length"
     },
     {
-        "ID": 82,
+        "_id": 82,
         "Fastener": "Rivet, Plastic Screw",
         "Supplier": "Any",
         "Category": "Rivets",
@@ -1148,7 +1148,7 @@
         "Comments": "Any diameter and length"
     },
     {
-        "ID": 83,
+        "_id": 83,
         "Fastener": "\tTie Wrap, Plastic",
         "Supplier": "Any",
         "Category": "Cable Ties",
@@ -1162,7 +1162,7 @@
         "Comments": "Includes all styles and sizes of plastic cable ties including Cable Clamp, Zip Tie, etc."
     },
     {
-        "ID": 84,
+        "_id": 84,
         "Fastener": "\tTie Wrap, Steel",
         "Supplier": "Any",
         "Category": "Cable Ties",
@@ -1176,7 +1176,7 @@
         "Comments": "Includes all styles and sizes of steel cable ties."
     },
     {
-        "ID": 85,
+        "_id": 85,
         "Fastener": "Standoff, Electrical and Circuit Board, Nylon",
         "Supplier": "Any",
         "Category": "Electrical Standoffs",
@@ -1190,7 +1190,7 @@
         "Comments": "Male thread to Female thread standoff. Hex or Recessed drive Cylindrical profiles.  Any diameter and length"
     },
     {
-        "ID": 86,
+        "_id": 86,
         "Fastener": "Standoff, Electrical and Circuit Board, Brass",
         "Supplier": "Any",
         "Category": "Electrical Standoffs",
@@ -1204,7 +1204,7 @@
         "Comments": "Male thread to Female thread standoff. Hex or Recessed drive Cylindrical profiles.  Any diameter and length"
     },
     {
-        "ID": 87,
+        "_id": 87,
         "Fastener": "Standoff, Electrical and Circuit Board, Aluminium",
         "Supplier": "Any",
         "Category": "Electrical Standoffs",
@@ -1218,7 +1218,7 @@
         "Comments": "Male thread to Female thread standoff. Hex or Recessed drive Cylindrical profiles.  Any diameter and length"
     },
     {
-        "ID": 88,
+        "_id": 88,
         "Fastener": "Standoff, Electrical and Circuit Board, Steel, Plated",
         "Supplier": "Any",
         "Category": "Electrical Standoffs",
@@ -1232,7 +1232,7 @@
         "Comments": "Male thread to Female thread standoff. Hex or Recessed drive Cylindrical profiles.  Any diameter and length"
     },
     {
-        "ID": 89,
+        "_id": 89,
         "Fastener": "Standoff, Electrical and Circuit Board, Stainless Steel",
         "Supplier": "Any",
         "Category": "Electrical Standoffs",
@@ -1246,7 +1246,7 @@
         "Comments": "Male thread to Female thread standoff. Hex or Recessed drive Cylindrical profiles.  Any diameter and length"
     },
     {
-        "ID": 90,
+        "_id": 90,
         "Fastener": "\tTapered Pin, Threaded (AN386)",
         "Supplier": "Any",
         "Category": "Miscellaneous",
@@ -1260,7 +1260,7 @@
         "Comments": "AN386 up to 6.35mm"
     },
     {
-        "ID": 91,
+        "_id": 91,
         "Fastener": "\tEyebolt, Threaded, Steel",
         "Supplier": "Any",
         "Category": "Miscellaneous",
@@ -1274,13 +1274,13 @@
         "Comments": null
     },
     {
-        "ID": 92,
-        "Fastener": "Buckle, side release, plastic",
+        "_id": 92,
+        "Fastener": "Buckle, s_ide release, plastic",
         "Supplier": "Any",
         "Category": "Miscellaneous",
         "Unit1": "mm",
         "Unit2": null,
-        "Size1": "Width of strap into buckle",
+        "Size1": "W_idth of strap into buckle",
         "Size2": " ",
         "C1": 0.03,
         "C2": 0.3,
@@ -1288,13 +1288,13 @@
         "Comments": null
     },
     {
-        "ID": 93,
-        "Fastener": "Buckle, side release, metal",
+        "_id": 93,
+        "Fastener": "Buckle, s_ide release, metal",
         "Supplier": "Any",
         "Category": "Miscellaneous",
         "Unit1": "mm",
         "Unit2": null,
-        "Size1": "Width of strap into buckle",
+        "Size1": "W_idth of strap into buckle",
         "Size2": " ",
         "C1": 0.05,
         "C2": 0.59,
@@ -1302,13 +1302,13 @@
         "Comments": null
     },
     {
-        "ID": 94,
+        "_id": 94,
         "Fastener": "\tMetal fixed loop swivel snap",
         "Supplier": "Any",
         "Category": "Miscellaneous",
         "Unit1": "mm",
         "Unit2": null,
-        "Size1": "Width of strap into buckle",
+        "Size1": "W_idth of strap into buckle",
         "Size2": " ",
         "C1": 0.0053,
         "C2": 0.26,
@@ -1316,7 +1316,7 @@
         "Comments": null
     },
     {
-        "ID": 95,
+        "_id": 95,
         "Fastener": "Clevis",
         "Supplier": "Any",
         "Category": "Miscellaneous",
