@@ -36,6 +36,10 @@ for sheet_name in sheet_names:
         for key, value in formatted_dict.items():
             if isinstance(value, str):
                 formatted_dict[key] = str(value).replace('[', '').replace(']', '')
+            # camel case all keys
+            formatted_dict[key.replace(' ', '')] = formatted_dict.pop(key)
+            if value == "Yes" or value == "No":
+                formatted_dict[key] = value == "Yes"
             if value == 'None':
                 formatted_dict[key] = None
             if key == 'Formula':
